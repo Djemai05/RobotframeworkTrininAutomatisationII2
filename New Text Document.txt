@@ -1,0 +1,11 @@
+POM
+IDE: Eclips, Pycharp...
+Outils: Rebote, Selinium, cucumber, 
+
+code . pour ouvrir VS de l
+
+
+Xpath relative: //tagname[@attribut="value"]
+Xpath absolu: /html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/div[1]/div/input[1]
+
+Forcer le browser pour s'ouvrir en Fr: options=add_argument('--lang=fr')
