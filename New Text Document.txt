@@ -1,4 +1,4 @@
-POM
+POM: Page Object Model
 IDE: Eclips, Pycharp...
 Outils: Rebote, Selinium, cucumber, 
 
